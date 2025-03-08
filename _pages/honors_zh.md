@@ -1,5 +1,5 @@
 ---
-permalink: /honors_zh
+permalink: /honors_zh/
 title: "Honors & Awards"
 ---
 
