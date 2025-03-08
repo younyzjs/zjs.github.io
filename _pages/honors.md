@@ -30,7 +30,7 @@ class: honors-container
 - **National Mathematical Modeling Contest — Shandong Province Third Prize** (2023.11)  
 <div style="text-align:right;">&emsp;&emsp;—— Higher Education Department of Shandong Provincial Education Department, China Society for Industrial and Applied Mathematics</div>  
 - **Blue Bridge Cup National Software & IT Professionals Competition — Shandong Division Second Prize in C/C++ Programming (Group A)** (2024.04)  
-<div style="text-align:right;"&emsp;&emsp;>—— Talent Exchange Center of Ministry of Industry and Information Technology, Blue Bridge Cup Organizing Committee</div>  
+<div style="text-align:right;">&emsp;&emsp;—— Talent Exchange Center of Ministry of Industry and Information Technology, Blue Bridge Cup Organizing Committee</div>  
 
 ## Campus Activities & Honors  
 - **Outstanding Student Cadre Model** (top0.5%) (2024.11)
