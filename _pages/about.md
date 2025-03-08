@@ -28,8 +28,8 @@ Leadership & Service
 &emsp;&emsp;Holding over 10 leadership roles including class monitor, academic committee member, and freshman academic advisor, I:  
 - Organized "Math Heart Tutoring" sessions improving 100+ students' calculus scores  
 - Mentored freshmen cohort with 7 students entering top 50% academically  
-- Led "Coding for All" social practice program recognized as校级十佳团队 (Top 10 University Teams)  
-- Directed "Cloud Dream" community coding initiative winning威海市优秀志愿服务项目 (Weihai Outstanding Volunteer Project)  
+- Led "Coding for All" social practice program recognized as Top 10 University Teams 
+- Directed "Cloud Dream" community coding initiative winning Weihai Outstanding Volunteer Project
 - Received Outstanding Student Cadre Model (Top 0.5%) and Outstanding Student Leader awards  
 
 Vision & Commitment  
