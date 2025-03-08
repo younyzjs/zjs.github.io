@@ -4,7 +4,7 @@ title: "Honors & Awards"
 class: honors-container
 ---
 
-[Chinese Version](/zjs.github.io/honors_zh/)  
+[中文版本](/zjs.github.io/honors_zh/)  
 
 
 ## Scholarships
