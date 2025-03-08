@@ -34,4 +34,4 @@ author_profile: true
 
 更多
 ------
-&emsp;&emsp;欢迎通过[微信](../images/wechat.jpg) 或 邮箱 <a href="mailto:2947472435@qq.com">2947472435@qq.com</a> 与我联系。
+&emsp;&emsp;欢迎通过[微信](./images/wechat.jpg) 或 邮箱 <a href="mailto:2947472435@qq.com">2947472435@qq.com</a> 与我联系。
