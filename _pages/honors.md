@@ -22,15 +22,15 @@ class: honors-container
 
 ## Competitions & Awards  
 - **National Information Security Competition for College Students — National Third Prize (Team Leader)** (2024.08)  
-<div style="text-align:right;">—— Teaching Steering Committee for Cybersecurity in Higher Education Institutions, Ministry of Education</div>  
+<div style="text-align:right;">&emsp;&emsp;—— Teaching Steering Committee for Cybersecurity in Higher Education Institutions, Ministry of Education</div>  
 - **National Mathematical Modeling Contest — Shandong Province Second Prize (Team Leader)** (2024.11)  
-<div style="text-align:right;">—— Higher Education Department of Shandong Provincial Education Department, China Society for Industrial and Applied Mathematics</div>  
+<div style="text-align:right;">&emsp;&emsp;—— Higher Education Department of Shandong Provincial Education Department, China Society for Industrial and Applied Mathematics</div>  
 - **China Collegiate Computing Contest — Shandong Province Second Prize** (2024.08)  
-<div style="text-align:right;">—— Shandong Provincial Organizing Committee of China Collegiate Computing Contest</div>  
+<div style="text-align:right;">&emsp;&emsp;—— Shandong Provincial Organizing Committee of China Collegiate Computing Contest</div>  
 - **National Mathematical Modeling Contest — Shandong Province Third Prize** (2023.11)  
-<div style="text-align:right;">—— Higher Education Department of Shandong Provincial Education Department, China Society for Industrial and Applied Mathematics</div>  
+<div style="text-align:right;">&emsp;&emsp;—— Higher Education Department of Shandong Provincial Education Department, China Society for Industrial and Applied Mathematics</div>  
 - **Blue Bridge Cup National Software & IT Professionals Competition — Shandong Division Second Prize in C/C++ Programming (Group A)** (2024.04)  
-<div style="text-align:right;">—— Talent Exchange Center of Ministry of Industry and Information Technology, Blue Bridge Cup Organizing Committee</div>  
+<div style="text-align:right;"&emsp;&emsp;>—— Talent Exchange Center of Ministry of Industry and Information Technology, Blue Bridge Cup Organizing Committee</div>  
 
 ## Campus Activities & Honors  
 - **Outstanding Student Cadre Model** (top0.5%) (2024.11)
@@ -57,10 +57,11 @@ class: honors-container
 <div style="text-align:right;">—— School of Computer Science and Technology, HIT (Weihai)</div>
 - **Outstanding Student (Ethical Development Award)** (2023.11)
 <div style="text-align:right;">—— CPC HIT Committee, Harbin Institute of Technology</div>
-- **Weihai Youth Volunteer Service Project Competition — Excellence Award** (2023.12)  
+- **Weihai Youth Volunteer Service Project Competition — Excellence Award** (2023.12)
 <div style="text-align:right;">—— Weihai Civilization Office, Weihai Municipal Committee of the Communist Youth League, Weihai Civil Affairs Bureau</div>  
 
 ## Academic & Research Achievements  
+
 - **Completion Certificate for Artificial Intelligence Research Program** (2023.03
 <div style="text-align:right;">—— Nanyang Technological University</div>
 - **Recommendation Letter from Dr. Teoh Teik Toe** (2023.03)
