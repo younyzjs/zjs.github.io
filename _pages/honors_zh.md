@@ -1,5 +1,5 @@
 ---
-permalink: /honors_zh/
+permalink: /zjs.github.io/honors_zh/
 title: "Honors & Awards"
 ---
 
