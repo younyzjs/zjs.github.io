@@ -1,98 +1,81 @@
 ---
 permalink: /honors/
 title: "Honors & Awards"
+class: honors-container
 ---
 [Chinese Version](/zjs.github.io/honors_zh/)  
+
 <style>
 :root {
   /* Typography System */
-  --text-base: 1rem;        /* 16px mobile base */
-  --text-xs: 0.75rem;       /* 12px */
-  --text-sm: 0.875rem;      /* 14px */
-  --text-lg: 1.25rem;       /* 20px */
-  --text-xl: 1.5rem;        /* 24px */
-  --text-2xl: 2rem;         /* 32px */
-  
-  /* Line Heights */
-  --tight: 1.25;
-  --normal: 1.5;
-  --loose: 1.75;
+  --text-base: 1rem;
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-lg: 1.25rem;
+  --text-xl: 1.5rem;
   
   /* Spacing */
   --space-sm: 0.5rem;
   --space-md: 1rem;
-  --space-lg: 1.5rem;
 }
 
 .honors-container {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  max-width: 800px;
+  font-family: system-ui, -apple-system, sans-serif;
+  max-width: 780px;
   margin: 0 auto;
-  padding: 2rem 1rem;
+  padding: 2rem 1.25rem;
 }
 
 h2 {
   font-size: var(--text-xl);
-  line-height: var(--tight);
   font-weight: 600;
-  margin: var(--space-lg) 0 var(--space-md);
-  padding-bottom: 0.25rem;
-  border-bottom: 2px solid #eee;
+  margin: 2rem 0 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #f0f0f0;
 }
 
-/* Awards List Styling */
 .award-item {
-  font-size: var(--text-base);
-  line-height: var(--normal);
-  margin: var(--space-sm) 0;
   position: relative;
-  padding-left: 1.25rem;
+  margin: var(--space-md) 0;
+  padding-left: 1.5rem;
+  font-size: var(--text-base);
+  line-height: 1.6;
 }
 
 .award-item::before {
-  content: "•";
+  content: "▹";
   position: absolute;
   left: 0;
-  color: #2c7be5;
+  color: #2563eb;
 }
 
 .award-title {
   font-weight: 500;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.015em;
 }
 
 .issuer {
   font-size: var(--text-sm);
-  opacity: 0.85;
+  color: #4b5563;
   float: right;
+  margin-left: 1.5rem;
 }
 
 .date {
   font-size: var(--text-xs);
-  color: #666;
-  margin-left: 0.5rem;
+  color: #6b7280;
+  margin-left: 0.75rem;
 }
 
-/* Responsive Design */
-@media (max-width: 768px) {
-  :root {
-    --text-base: 0.875rem; /* 14px mobile base */
-  }
-  
+@media (max-width: 640px) {
   .issuer {
     float: none;
     display: block;
-    margin-top: 0.25rem;
+    margin: 0.25rem 0 0 1.5rem;
   }
   
-  h2 {
-    font-size: var(--text-lg);
-  }
-}
-
-@media (min-width: 1200px) {
-  :root {
-    --text-base: 1.125rem; /* 18px desktop base */
+  .award-item {
+    padding-left: 1rem;
   }
 }
 </style>
