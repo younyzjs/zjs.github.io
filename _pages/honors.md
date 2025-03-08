@@ -3,82 +3,103 @@ permalink: /honors/
 title: "Honors & Awards"
 class: honors-container
 ---
+
 [Chinese Version](/zjs.github.io/honors_zh/)  
 
 <style>
 :root {
-  /* Typography System */
-  --text-base: 1rem;
-  --text-xs: 0.75rem;
-  --text-sm: 0.875rem;
-  --text-lg: 1.25rem;
-  --text-xl: 1.5rem;
+  /* 衬线字体配置 */
+  --font-serif: "Times New Roman", Times, serif;
+  --font-scale: 1.2; /* 衬线字体放大系数 */
   
-  /* Spacing */
-  --space-sm: 0.5rem;
-  --space-md: 1rem;
+  /* 字号系统 */
+  --text-base: calc(1rem * var(--font-scale));  /* 19.2px */
+  --text-xs: calc(0.75rem * var(--font-scale)); /* 14.4px */
+  --text-sm: calc(0.875rem * var(--font-scale));/* 16.8px */
+  --text-lg: calc(1.25rem * var(--font-scale)); /* 24px */
+  --text-xl: calc(1.5rem * var(--font-scale));  /* 28.8px */
+  
+  /* 衬线字体专用行高 */
+  --leading-tight: 1.3;
+  --leading-normal: 1.45;
+  --leading-loose: 1.6;
 }
 
 .honors-container {
-  font-family: system-ui, -apple-system, sans-serif;
-  max-width: 780px;
-  margin: 0 auto;
-  padding: 2rem 1.25rem;
+  font-family: var(--font-serif);
+  font-feature-settings: "kern" 1, "liga" 1, "onum" 1;
+  text-rendering: optimizeLegibility;
 }
 
+/* 标题优化 */
 h2 {
   font-size: var(--text-xl);
-  font-weight: 600;
-  margin: 2rem 0 1rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 2px solid #f0f0f0;
+  letter-spacing: -0.02em;
+  font-variant: small-caps;
+  margin: 2.25rem 0 1.25rem;
 }
 
+/* 奖项条目增强 */
 .award-item {
-  position: relative;
-  margin: var(--space-md) 0;
-  padding-left: 1.5rem;
   font-size: var(--text-base);
-  line-height: 1.6;
+  line-height: var(--leading-normal);
+  margin: 1.1rem 0;
+  padding-left: 1.8rem;
+  text-indent: -1.8rem;
 }
 
 .award-item::before {
-  content: "▹";
-  position: absolute;
-  left: 0;
-  color: #2563eb;
+  content: "•";
+  font-size: 1.3em;
+  vertical-align: baseline;
+  margin-right: 0.6rem;
 }
 
-.award-title {
-  font-weight: 500;
-  letter-spacing: -0.015em;
-}
-
+/* 机构信息排版 */
 .issuer {
   font-size: var(--text-sm);
-  color: #4b5563;
+  font-style: italic;
   float: right;
-  margin-left: 1.5rem;
+  margin-right: -1.2rem;
+  max-width: 45%;
 }
 
-.date {
-  font-size: var(--text-xs);
-  color: #6b7280;
-  margin-left: 0.75rem;
-}
-
-@media (max-width: 640px) {
+/* 响应式优化 */
+@media (max-width: 768px) {
+  :root {
+    --font-scale: 1.15;
+  }
+  
   .issuer {
     float: none;
-    display: block;
-    margin: 0.25rem 0 0 1.5rem;
+    margin: 0.4rem 0 0 2rem;
+    max-width: 100%;
+    font-style: normal;
   }
   
   .award-item {
-    padding-left: 1rem;
+    padding-left: 2rem;
+    text-indent: -2rem;
+  }
+}
+
+/* 打印优化 */
+@media print {
+  :root {
+    --font-scale: 1;
+  }
+  
+  .honors-container {
+    font-family: "Times New Roman", serif;
+    max-width: 100%;
+  }
+  
+  .issuer {
+    float: right !important;
   }
 }
 </style>
+
 ## Scholarships
 - **National Scholarship** (top1%) (2023.12)<span style="float:right;">—— Ministry of Education of the People's Republic of China</span>  
 - **National Encouragement Scholarship** (top1%) (2024.12)<span style="float:right;">—— Harbin Institute of Technology (Weihai)</span>  
