@@ -11,8 +11,8 @@ main:
   - title: "Honors & Awards"
     url: /honors/    
     
-  - title: "cv"
-    url: /cv/
+  # - title: "cv"
+  #   url: /cv/
     
   # - title: "Portfolio"
   #   url: /portfolio/
