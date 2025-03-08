@@ -3,38 +3,39 @@ permalink: /
 title: "About Me"
 author_profile: true
 ---
-[Chinese Version](/zjs.github.io/about_zh/)
+[中文版本](/zjs.github.io/about_zh/)
 
-Hi, I'm Zhang Jinshuai, a student at Harbin Institute of Technology (Weihai), majoring in Cybersecurity. My research interests include Graph Neural Networks, Graph Clustering, and Graph Anomaly Detection.
+&emsp;&emsp;I am Zhang Jinshuai, an undergraduate student majoring in Cybersecurity at the School of Computer Science and Technology, Harbin Institute of Technology, Weihai (Class of 2026). As a young scholar pursuing excellence in the new era, I consistently uphold the university motto of "Specifications Strict, Skills Solid" through academic exploration, scientific research, student leadership, and social service, striving to become a well-rounded talent.
 
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-
-Site-wide configuration
+Academic Excellence
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+&emsp;&emsp;Maintaining the highest GPA in my major (95.02/100 as of March 2025), I have demonstrated academic excellence with 38 courses scoring above 90/100 and 22 courses exceeding 95/100. Core courses include Probability and Mathematical Statistics (100), Computer Organization (99), and Database Systems (99). Recognized for academic achievements, I received the National Scholarship, National Endeavor Scholarship, Future Technology Taihu Scholarship, and First-Class People's Scholarship, and was selected as one of the university's Top Ten Academic Excellence Stars (Top 0.1%).
 
-Create content & metadata
+Research & Competitions
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+&emsp;&emsp;I bridge theory with practice through research and competitions. As team leader, I won the National Third Prize in the National Information Security Contest for College Students (2024) and Shandong Provincial Second Prize in the China Undergraduate Mathematical Contest in Modeling (2024).  
 
-**Markdown generator**
+**Research Highlights:**  
+- Conducted AI research at Nanyang Technological University under Dr. Teoh Teik Toe's supervision, earning recommendation letter  
+- Developed BCWatch: A blockchain anomaly transaction detection system using GNNs, winning national competition awards  
+- At HIT INET Lab: Designed FGAD (Feedback-based Graph Autoencoder for Anomaly Detection) by integrating anomaly scores into feature aggregation, preparing first-author paper for ICDM 2025 (CCF-B)  
+- At HIT ICES Lab: Explored GNN applications in microservice fault tracing through classic model reproduction and root cause framework design  
+- At CASIA NLPR Lab: Built 10K+ multimodal Tool Agent dataset to enhance Toolkengpt's tool comprehension; Contributed to DeepSeek-R1 molecular classification model achieving 98.95% accuracy on MoleculeNet  
+- Obtained CSTP LLM Application Developer Certification through intensive training  
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Leadership & Service  
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+&emsp;&emsp;Holding over 10 leadership roles including class monitor, academic committee member, and freshman academic advisor, I:  
+- Organized "Math Heart Tutoring" sessions improving 100+ students' calculus scores  
+- Mentored freshmen cohort with 7 students entering top 50% academically  
+- Led "Coding for All" social practice program recognized as校级十佳团队 (Top 10 University Teams)  
+- Directed "Cloud Dream" community coding initiative winning威海市优秀志愿服务项目 (Weihai Outstanding Volunteer Project)  
+- Received Outstanding Student Cadre Model (Top 0.5%) and Outstanding Student Leader awards  
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
+Vision & Commitment  
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+&emsp;&emsp;As a CPC probationary member, I align personal growth with national needs. I plan to pursue graduate studies in GNNs and LLMs, focusing on data security and algorithmic trustworthiness in intelligent systems. My goal is to advance cutting-edge AI applications for national strategic priorities while promoting sustainable technological development.  
+
+Summery
+------
+&emsp;&emsp;Three years at HIT have forged my academic rigor and innovative spirit. Honors belong to the past; the journey continues. With unwavering commitment, I will keep scaling new heights in academia and national service, writing my youth's most brilliant chapter.  
