@@ -3,7 +3,99 @@ permalink: /honors/
 title: "Honors & Awards"
 ---
 [Chinese Version](/zjs.github.io/honors_zh/)  
+<style>
+:root {
+  /* Typography System */
+  --text-base: 1rem;        /* 16px mobile base */
+  --text-xs: 0.75rem;       /* 12px */
+  --text-sm: 0.875rem;      /* 14px */
+  --text-lg: 1.25rem;       /* 20px */
+  --text-xl: 1.5rem;        /* 24px */
+  --text-2xl: 2rem;         /* 32px */
+  
+  /* Line Heights */
+  --tight: 1.25;
+  --normal: 1.5;
+  --loose: 1.75;
+  
+  /* Spacing */
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+}
 
+.honors-container {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+h2 {
+  font-size: var(--text-xl);
+  line-height: var(--tight);
+  font-weight: 600;
+  margin: var(--space-lg) 0 var(--space-md);
+  padding-bottom: 0.25rem;
+  border-bottom: 2px solid #eee;
+}
+
+/* Awards List Styling */
+.award-item {
+  font-size: var(--text-base);
+  line-height: var(--normal);
+  margin: var(--space-sm) 0;
+  position: relative;
+  padding-left: 1.25rem;
+}
+
+.award-item::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: #2c7be5;
+}
+
+.award-title {
+  font-weight: 500;
+  letter-spacing: -0.01em;
+}
+
+.issuer {
+  font-size: var(--text-sm);
+  opacity: 0.85;
+  float: right;
+}
+
+.date {
+  font-size: var(--text-xs);
+  color: #666;
+  margin-left: 0.5rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  :root {
+    --text-base: 0.875rem; /* 14px mobile base */
+  }
+  
+  .issuer {
+    float: none;
+    display: block;
+    margin-top: 0.25rem;
+  }
+  
+  h2 {
+    font-size: var(--text-lg);
+  }
+}
+
+@media (min-width: 1200px) {
+  :root {
+    --text-base: 1.125rem; /* 18px desktop base */
+  }
+}
+</style>
 ## Scholarships
 - **National Scholarship** (top1%) (2023.12)<span style="float:right;">—— Ministry of Education of the People's Republic of China</span>  
 - **National Encouragement Scholarship** (top1%) (2024.12)<span style="float:right;">—— Harbin Institute of Technology (Weihai)</span>  
