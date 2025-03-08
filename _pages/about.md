@@ -39,3 +39,7 @@ As a CPC probationary member, I align personal growth with national needs. I pla
 Summery
 ------
 Three years at HIT have forged my academic rigor and innovative spirit. Honors belong to the past; the journey continues. With unwavering commitment, I will keep scaling new heights in academia and national service, writing my youth's most brilliant chapter.  
+
+More Info
+------
+&emsp;&emsp;Feel free to reach me via [WeChat](/wechat.jpg) or Email: <a href="2947472435@qq.com">2947472435@qq.com</a>.
