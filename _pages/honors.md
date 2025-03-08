@@ -12,7 +12,7 @@ class: honors-container
 <div style="text-align:right;">—— Ministry of Education of the People's Republic of China</div>
 - **National Encouragement Scholarship** (top1%) (2024.12)
 <div style="text-align:right;">—— Harbin Institute of Technology (Weihai)</div>
-- **Future Technology Taihu Scholarship** (top1%) (2023.12)
+- **Taihu Scholarship for Future Technology (** (top1%) (2023.12)
 <div style="text-align:right;">—— Harbin Institute of Technology (Weihai)</div>
 - **First-Class People's Scholarship** (top3%) (2023.06)
 <div style="text-align:right;">—— Harbin Institute of Technology (Weihai)</div>
