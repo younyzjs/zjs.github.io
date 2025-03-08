@@ -5,7 +5,7 @@ author_profile: true
 ---
 [中文版本](/zjs.github.io/about_zh/)
 
-[Personal Homepage](...../https://www.wolai.com/7toMo7XR34wwcJg6iynLcA)
+[Personal Homepage](..../https://www.wolai.com/7toMo7XR34wwcJg6iynLcA)
 
 I am **Zhang Jinshuai**, an undergraduate student majoring in Cybersecurity at the School of Computer Science and Technology, **Harbin Institute of Technology, Weihai (Class of 2026)**. As a young scholar pursuing excellence in the new era, I consistently uphold the university motto of "Specifications Strict, Skills Solid" through academic exploration, scientific research, student leadership, and social service, striving to become a well-rounded talent.
 
