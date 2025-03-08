@@ -2,7 +2,7 @@
 permalink: /honors_zh/
 title: "Honors & Awards"
 ---
-
+[English Version](/zjs.github.io/honors/) 
 ## Scholarships
 - **国家奖学金**(top1%)(2023.12)<span style="float:right;">——中华人民共和国教育部</span>
 - **国家励志奖学金**(top1%)(2024.12)<span style="float:right;">——哈尔滨工业大学(威海)</span>
