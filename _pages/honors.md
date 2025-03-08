@@ -5,12 +5,12 @@ title: "Honors & Awards"
 
 ## 奖学金
 - **国家奖学金**(top1%) (2023.12) <span style="float:right;">——中华人民共和国教育部</span>
-- **国家励志奖学金**(top1%) (2024.12) <span style="float:right;">——哈尔滨工业大学（威海）</span>
-- **未来技术太湖奖学金**(top1%) (2023.12)<span style="float:right;"> ——哈尔滨工业大学（威海）</span>
-- **一等人民奖学金**(top3%) (2023.06)<span style="float:right;"> ——哈尔滨工业大学（威海）</span>
-- **社会实践奖学金** (2024.05) <span style="float:right;">——哈尔滨工业大学（威海）</span>
-- **社会实践奖学金** (2023.11) <span style="float:right;">——哈尔滨工业大学（威海）</span>
-- **社会工作优秀奖学金** (2023.06) <span style="float:right;">——哈尔滨工业大学（威海）</span>
+- **国家励志奖学金**(top1%) (2024.12) <span style="float:right;">——哈尔滨工业大学(威海)</span>
+- **未来技术太湖奖学金**(top1%) (2023.12)<span style="float:right;"> ——哈尔滨工业大学(威海)</span>
+- **一等人民奖学金**(top3%) (2023.06)<span style="float:right;"> ——哈尔滨工业大学(威海)</span>
+- **社会实践奖学金** (2024.05) <span style="float:right;">——哈尔滨工业大学(威海)</span>
+- **社会实践奖学金** (2023.11) <span style="float:right;">——哈尔滨工业大学(威海)</span>
+- **社会工作优秀奖学金** (2023.06) <span style="float:right;">——哈尔滨工业大学(威海)</span>
 
 ## 竞赛奖项
 - **全国大学生信息安全竞赛——国家三等奖(队长)** (2024.08)
@@ -26,16 +26,16 @@ title: "Honors & Awards"
 
 ## 学校活动与荣誉称号
 - **优秀学生干部标兵**(top0.5%) (2024.11)<span style="float:right;"> ——中共哈尔滨工业大学委员会、哈尔滨工业大学</span>
-- **十佳学习之星(卓越类)**(top0.1%) (2024.06) <span style="float:right;">——哈尔滨工业大学（威海）</span>
-- **社会实践“十佳个人”**(top0.1%) (2024.04)<span style="float:right;"> ——共青团哈尔滨工业大学（威海）委员会</span>
-- **社会实践“十佳团队”(队长)** (2024.04) <span style="float:right;">——共青团哈尔滨工业大学（威海）委员会</span>
+- **十佳学习之星(卓越类)**(top0.1%) (2024.06) <span style="float:right;">——哈尔滨工业大学(威海)</span>
+- **社会实践“十佳个人”**(top0.1%) (2024.04)<span style="float:right;"> ——共青团哈尔滨工业大学(威海)委员会</span>
+- **社会实践“十佳团队”(队长)** (2024.04) <span style="float:right;">——共青团哈尔滨工业大学(威海)委员会</span>
 - **优秀团员** (2023.05)<span style="float:right;"> ——共青团哈尔滨工业大学委员会</span>
 - **优秀团员** (2024.05)<span style="float:right;"> ——共青团哈尔滨工业大学委员会</span>
-- **社会实践优秀个人** (2023.09)<span style="float:right;">——共青团哈尔滨工业大学（威海）委员会</span>
-- **社会实践优秀个人** (2024.04) <span style="float:right;">——共青团哈尔滨工业大学（威海）委员会</span>
-- **社会实践优秀个人** (2024.09)<span style="float:right;">——共青团哈尔滨工业大学（威海）委员会</span>
-- **计算之星——德育之星** (2023.05) <span style="float:right;">——哈尔滨工业大学（威海）计算机科学与技术学院</span>
-- **计算之星——优秀学生干部** (2024.09)<span style="float:right;">——哈尔滨工业大学（威海）计算机科学与技术学院</span>
+- **社会实践优秀个人** (2023.09)<span style="float:right;">——共青团哈尔滨工业大学(威海)委员会</span>
+- **社会实践优秀个人** (2024.04) <span style="float:right;">——共青团哈尔滨工业大学(威海)委员会</span>
+- **社会实践优秀个人** (2024.09)<span style="float:right;">——共青团哈尔滨工业大学(威海)委员会</span>
+- **计算之星——德育之星** (2023.05) <span style="float:right;">——哈尔滨工业大学(威海)计算机科学与技术学院</span>
+- **计算之星——优秀学生干部** (2024.09)<span style="float:right;">——哈尔滨工业大学(威海)计算机科学与技术学院</span>
 - **优秀学生（修身立德奖）** (2023.11) <span style="float:right;">——中共哈尔滨工业大学委员会、哈尔滨工业大学</span>
 - **威海市青年志愿服务项目大赛——优秀奖** (2023.12)
 <div style="text-align:right;">——威海精神文明建设委员会办公室、共青团威海市委、威海市民政局</div>
