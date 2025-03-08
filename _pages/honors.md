@@ -2,6 +2,7 @@
 permalink: /honors/
 title: "Honors & Awards"
 ---
+[Chinese Version](/honors_zh/)
 
 ## Scholarships
 - **国家奖学金**(top1%)(2023.12)<span style="float:right;">——中华人民共和国教育部</span>
