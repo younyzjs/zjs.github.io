@@ -31,3 +31,7 @@ author_profile: true
 结语
 ------
 &emsp;&emsp;哈工大三载求索路，是“学在海边”的沉淀，亦是“追求卓越”的攀登。我深知，荣誉属于过去，奋斗永无止境。未来，我将以更坚定的信念、更扎实的步伐，在学术与报国的征程中书写青春答卷。
+
+更多
+------
+&emsp;&emsp;欢迎通过[微信](zjs.github.io/images/wechat.jpg) 或 邮箱 <a href="mailto:2022211254@stu.hit.edu.cn">2022211254@stu.hit.edu.cnn</a> 与我联系。
