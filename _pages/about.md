@@ -3,6 +3,7 @@ permalink: /
 title: "About Me"
 author_profile: true
 ---
+[Chinese Version](/zjs.github.io/about_zh/)
 
 Hi, I'm Zhang Jinshuai, a student at Harbin Institute of Technology (Weihai), majoring in Cybersecurity. My research interests include Graph Neural Networks, Graph Clustering, and Graph Anomaly Detection.
 
