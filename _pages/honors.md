@@ -4,13 +4,13 @@ title: "Honors & Awards"
 ---
 
 ## 奖学金
-- **国家奖学金**(top1%) <span style="float:right;">2023.12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;——中华人民共和国教育部</span>
-- **国家励志奖学金**(top1%) <span style="float:right;">2024.12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;——哈尔滨工业大学(威海)</span>
-- **未来技术太湖奖学金**(top1%)<span style="float:right;">2023.12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ——哈尔滨工业大学(威海)</span>
-- **一等人民奖学金**(top3%)<span style="float:right;">2023.06&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;——哈尔滨工业大学(威海)</span>
-- **社会实践奖学金** <span style="float:right;">2024.05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;——哈尔滨工业大学(威海)</span>
-- **社会实践奖学金**<span style="float:right;">2023.11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;——哈尔滨工业大学(威海)</span>
-- **社会工作优秀奖学金**<span style="float:right;">2023.06&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;——哈尔滨工业大学(威海)</span>
+- **国家奖学金**(top1%)(2023.12)<span style="float:right;">——中华人民共和国教育部</span>
+- **国家励志奖学金**(top1%)(2024.12)<span style="float:right;">——哈尔滨工业大学(威海)</span>
+- **未来技术太湖奖学金**(top1%)(2023.12)<span style="float:right;">——哈尔滨工业大学(威海)</span>
+- **一等人民奖学金**(top3%)(2023.06)<span style="float:right;">——哈尔滨工业大学(威海)</span>
+- **社会实践奖学金**(2024.05)<span style="float:right;">——哈尔滨工业大学(威海)</span>
+- **社会实践奖学金**(2023.11)<span style="float:right;">——哈尔滨工业大学(威海)</span>
+- **社会工作优秀奖学金**(2023.06)<span style="float:right;">——哈尔滨工业大学(威海)</span>
 
 ## 竞赛奖项
 - **全国大学生信息安全竞赛——国家三等奖(队长)** (2024.08)
