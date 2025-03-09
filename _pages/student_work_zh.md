@@ -1,5 +1,5 @@
 ---
-permalink: /sw/
+permalink: /sw_zh/
 title: "Student Work"
 ---
 ### 学生工作经历
