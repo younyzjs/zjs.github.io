@@ -1,7 +1,8 @@
 ---
 permalink: /research_zh/
-title: "Research Experience"
+title: "Research and Project Experience"
 ---
+
 [Enlish Version](/zjs.github.io/research/)  
 
 **基于异常分数反馈的图异常检测(FGAD)** <span style="float:right;">2024.10 - 2025.03</span>  
