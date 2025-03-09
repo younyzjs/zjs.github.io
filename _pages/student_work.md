@@ -2,6 +2,8 @@
 permalink: /sw/
 title: "Student Work"
 ---
+[中文版本](/sw_zh/)
+
 ### 学生工作经历
 
 #### 2022.9 - 2023.6
