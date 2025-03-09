@@ -6,7 +6,7 @@ title: "Student Work"
 [中文版本](/zjs.github.io/sw_zh/)  
 
 ## Harbin Institute of Technology (Weihai)  
-------
+
 **Class Monitor** | Class 2204302, School of Computer Science and Technology <span style="float:right;">2024-2025</span>  
 - Led class operations, coordinated campus events, and resolved conflicts to build a united, high-performing class community.  
 - Conducted regular meetings to address class issues and implement improvement plans, fostering student engagement.  
