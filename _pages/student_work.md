@@ -5,23 +5,44 @@ title: "Student Work"
 
 [中文版本](/zjs.github.io/sw_zh/)  
 
-### 学生工作经历
+## Harbin Institute of Technology (Weihai)  
+------
+**Class Monitor** | Class 2204302, School of Computer Science and Technology <span style="float:right;">2024-2025</span>  
+- Led class operations, coordinated campus events, and resolved conflicts to build a united, high-performing class community.  
+- Conducted regular meetings to address class issues and implement improvement plans, fostering student engagement.  
+- Collaborated with faculty on educational initiatives while organizing cultural activities to strengthen class identity.  
 
-#### 2022.9 - 2023.6
-- **辅导员助理**：协助辅导员完成日常学生管理工作，包括学生信息统计、活动组织与通知传达等，及时反馈学生动态，为班级管理提供有力支持。
-- **院学生会团建中心干事**：积极参与学院团建活动的策划与组织，如主题团日活动、团支部风采展示等，增强团支部凝聚力与团员青年的思想引领，提升学院团学工作质量。
-- **6公寓352宿舍长**：负责宿舍日常事务管理，协调宿舍成员关系，营造良好的宿舍生活氛围，组织宿舍成员共同参与校园文化活动，维护宿舍安全与卫生。
+**Cloud Dream Pursuit Team Leader** | School of Computer Science and Technology <span style="float:right;">2023-2024</span>  
+- Directed community programming education initiatives, designing coding courses to nurture teens’ logical thinking and innovation skills.  
+- Oversaw team operations, task delegation, and community partnerships to ensure project success.  
+- Promoted team achievements through reports and promotional materials, expanding the team’s social impact.  
 
-#### 2022.9 - 2023.9
-- **朋辈导师**：为低年级学生提供学习与生活指导，分享学习经验与方法，帮助新生快速适应大学生活，解答他们在学业规划、课程选择等方面的疑问，引导他们树立正确的学习目标与价值观。
+**Academic Counselor** | Zihua Xiang College Class 23DX201 <span style="float:right;">2023-2024</span>  
+- Organized study sessions and alumni sharing events to elevate class academic performance and foster positive learning habits.  
+- Facilitated communication between students and faculty, coordinating study groups to enhance learning efficiency.  
+- Tracked students’ academic progress and mental health, offering personalized guidance to overcome challenges.  
 
-#### 2023.6 - 2024.9
-- **11公寓141宿舍长**：继续履行宿舍长职责，加强宿舍成员之间的沟通与协作，组织开展宿舍文化建设活动，提升宿舍成员的归属感与幸福感，确保宿舍各项事务顺利开展。
+**Class Academic Officer** | Class 2204302, School of Computer Science and Technology <span style="float:right;">2023-2024</span>  
+- Coordinated study resources and faculty communications, ensuring timely updates on academic requirements.  
+- Hosted peer-led study workshops to stimulate academic motivation and cultivate a collaborative learning environment.  
 
-#### 2023.9 - 2024.6
-- **23DX201班学业辅导员**：负责班级学业指导工作，定期组织学习交流活动，邀请优秀学长学姐分享经验，为班级同学提供个性化的学习建议与辅导，助力班级整体学习成绩提升，引导学生树立良好的学习风气。
-- **2204302班学习委员**：协助任课教师完成教学任务，及时收集并反馈同学们在学习过程中遇到的问题，组织班级同学开展学习小组讨论、课后辅导等活动，提高班级学习效率与质量，营造积极向上的学习氛围。
-- **云端筑梦实践队队长**：带领团队深入社区开展编程教育推广活动，策划并组织各类编程培训课程与实践活动，激发社区青少年对编程的兴趣，培养他们的逻辑思维与创新能力，提升团队协作与组织管理能力，推动实践项目取得良好成效，为社区教育事业贡献力量。
+**Dormitory Leader**  
+&nbsp;&nbsp;Room 141, Student Apartment 11 <span style="float:right;">2023-2025</span>  
+&nbsp;&nbsp;Room 352, Student Apartment 6 <span style="float:right;">2022-2023</span>  
+- Managed dormitory affairs, mediated relationships, and organized cultural activities to maintain a safe, hygienic, and harmonious living environment.  
+- Created duty schedules and supervised cleanliness; conducted facility inspections and coordinated repairs.  
+- Resolved conflicts among dorm members through proactive communication, fostering mutual respect and community spirit.  
 
-#### 2024.9 - 2025.9
-- **2204302班班长**：全面负责班级管理工作，制定班级工作计划与目标，组织班级同学积极参与各类校园活动与学科竞赛，协调班级内部各项事务，及时解决同学之间的矛盾与问题，维护班级良好秩序与团结氛围，带领班级同学共同成长进步，打造优秀班集体。
+**Peer Mentor** | School of Computer Science and Technology <span style="float:right;">2022-2023</span>  
+- Guided freshmen in academic and life adaptation, offering course selection advice and sharing effective learning strategies.  
+- Led study groups and one-on-one tutoring sessions to address academic challenges and improve performance.  
+- Monitored mentees’ mental well-being through regular check-ins, providing holistic support for their university transition.  
+
+**Student Union Officer** | Youth Development Center, School of Computer Science and Technology <span style="float:right;">2022-2023</span>  
+- Planned and organized youth development activities (e.g., themed league day events, branch performances) to strengthen ideological guidance and improve youth league operations.  
+- Managed routine tasks for league branches, including member information management, fee collection, and activity documentation to ensure standardized operations.  
+- Hosted regular study sessions for league members to share learning experiences, fostering academic engagement and ideological growth.  
+
+**Counselor Assistant** | School of Computer Science and Technology <span style="float:right;">2022-2023</span>  
+- Assisted counselors in daily student management tasks, including student information statistics, event organization, and notification dissemination. Provided timely feedback on student dynamics to strengthen class management.  
+- Organized class participation in campus cultural activities (e.g., themed class meetings, cultural/sports competitions) to enhance class cohesion and collective pride.  
