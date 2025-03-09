@@ -2,7 +2,8 @@
 permalink: /sw/
 title: "Student Work"
 ---
-[中文版本](/sw_zh/)
+
+[中文版本](/zjs.github.io/sw_zh/)  
 
 ### 学生工作经历
 
