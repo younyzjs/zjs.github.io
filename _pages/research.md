@@ -6,8 +6,6 @@ title: "Research Experience"
 
 ### Research and Project Experience  
 
-### Research and Project Experience  
-
 **Anomaly Score-Guided Feedback  in Graph Anomaly Detection (FGAD)** <span style="float:right;">2024.10 - 2025.03</span>  
 - **Affiliation**: INET Laboratory, Harbin Institute of Technology (Weihai)  
 - **Journal Submission**: First-author pre-submission to CCF-B conference ICDM 2025.  
