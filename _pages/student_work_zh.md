@@ -1,6 +1,6 @@
 ---
 permalink: /sw_zh/
-title: "Student Work"
+title: "学生工作"
 ---
 
 [Enlish Version](/zjs.github.io/sw/)  
