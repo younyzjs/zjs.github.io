@@ -1,6 +1,6 @@
 ---
 permalink: /about_zh/
-title: "About Me"
+title: "关于我"
 author_profile: true
 ---
 [English Version](//younyzjs.github.io/zjs.github.io/)
