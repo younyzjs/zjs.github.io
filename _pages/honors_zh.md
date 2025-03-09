@@ -1,6 +1,6 @@
 ---
 permalink: /honors_zh/
-title: "Honors & Awards"
+title: "荣誉奖项"
 ---
 [English Version](/zjs.github.io/honors/) 
 ## Scholarships
