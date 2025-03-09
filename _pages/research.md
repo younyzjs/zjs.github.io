@@ -4,49 +4,47 @@ title: "Research Experience"
 ---
 [中文版本](/zjs.github.io/research_zh/)
 
-### 科研与项目经历
+### Research and Project Experience  
 
-**基于异常分数反馈的图自编码器（FGAD）** | 哈尔滨工业大学INET实验室 <span style="float:right;">2024.09 - 2025.03</span>  
-:--- | :---  
-- **顶会预投**：以第一作者完成CCF-B类顶会ICDM 2025投稿（审稿中），提出动态特征聚合机制  
-- **模型架构**：创新设计轻量化图卷积网络架构，引入特征扩散权重，通过异常分数（0.85+置信度）与节点属性相似度动态调节特征聚合，噪声抑制效率提升23%  
-- **双模态检测**：构建节点属性重构（MAE<0.12）与图结构重构（Edge-AUC>0.91）双分支框架，覆盖95%异常类型  
-- **性能突破**：在Pygod基准测试中全面超越11个SOTA模型，Flickr大规模数据集（89K节点）AUC达93.1%  
-- **技术关键词**：Graph Autoencoder, Anomaly Score Feedback, Metis-Kmeans Clustering  
+### Research and Project Experience  
 
-**区块链异常交易检测系统（BCWatch）** | 第十七届信息安全竞赛国家级获奖项目 <span style="float:right;">2024.03 - 2024.08</span>  
-:--- | :---  
-- **竞赛成果**：获全国三等奖（队长），实现百万级交易数据实时检测（延迟<200ms）  
-- **技术创新**：提出参数共享+批量计算耦合架构，时空复杂度降低42%，类间分离度提升31.5%  
-- **工业验证**：部署至联盟链测试环境，成功识别暗网交易模式（F1-score 0.89）  
-- **核心算法**：设计膨胀收缩联合损失函数，实现"类内紧致度<0.15，类间间距>1.8"的优异特性  
+**Anomaly Score-Guided Feedback  in Graph Anomaly Detection (FGAD)** <span style="float:right;">2024.10 - 2025.03</span>  
+- **Affiliation**: INET Laboratory, Harbin Institute of Technology (Weihai)  
+- **Journal Submission**: First-author pre-submission to CCF-B conference ICDM 2025.  
+- **Anomaly Feedback Mechanism**: Improved traditional GCN embedding layers by constructing a lightweight GCN architecture with feature diffusion weights. Adjusted node feature aggregation based on anomaly scores, structural features, and attribute similarity to suppress noise propagation and enhance model robustness.  
+- **Graph Anomaly Detection**: Implemented a GAE-based detection model combining node reconstruction (attribute anomalies) and structural reconstruction (topological anomalies).  
+- **Data Partition Optimization**: Enhanced mini-batch partitioning using Metis and k-means clustering to reduce edge information loss.  
+- **Performance**: FGAD model outperformed 11 baseline methods on 7 anomaly detection datasets (Cora, Flickr, Reddit, Books, etc.).  
 
-**产业金融风险智能预测系统** | 华夏银行合作项目 <span style="float:right;">2024.10 - 2024.11</span>  
-:--- | :---  
-- **模型架构**：构建基于GAT的异构图神经网络，融合多头注意力机制（8头）与边特征融合模块  
-- **性能指标**：企业风险预测准确率89.7%，关联风险识别F1-score提升12.4pp  
-- **系统实现**：开发风险传导路径回溯引擎，支持10万级节点实时分析（响应时间<500ms）  
-- **可视化成果**：设计动态风险热力图与传导树状图，获银行风控部门"最具落地价值"评价  
+**Tool Agent Research with Toolkengpt and ToolBench** <span style="float:right;">2024.11 - 2025.03</span>  
+- **Affiliation**: NLPR Laboratory, Chinese Academy of Sciences  
+- **Theoretical Research**: Explored incremental learning (DSI++), collision-free codebook methods, and IDGenRec alternating training strategies.  
+- **Data Processing**: Addressed Tool Agent data scarcity by constructing a 589k multimodal Tool dataset covering 46k tool categories to optimize Toolkengpt's tool comprehension.  
+- **Model Training**: Reproduced and optimized the Toolkengpt model, conducting experiments on generated datasets to evaluate NDCG and accuracy.  
+- **Model Fine-tuning**: Participated in DeepSeek-R1 fine-tuning research, building a 1.77M dataset based on MoleculeNet and achieving 98.95% classification accuracy.  
 
-**微服务故障根因定位框架** | 哈尔滨工业大学ICES实验室 <span style="float:right;">2024.07 - 2025.03</span>  
-:--- | :---  
-- **工业适配**：构建微服务调用链快照图数据集（含50+微服务拓扑）  
-- **算法突破**：改进DONE模型为DGL框架，训练效率提升30%，误报率<5%  
-- **落地验证**：在电商平台故障场景中实现89.2%的根因定位准确率  
+**Microservice Fault Root Cause Localization** <span style="float:right;">2024.07 - 2025.03</span>  
+- **Affiliation**: ICES Laboratory, Harbin Institute of Technology  
+- **Methodology Study**: Reproduced graph anomaly detection (e.g., DONE) and microservice fault tracing (e.g., APG) papers, defining problems and collecting data.  
+- **Data Processing**: Processed microservice datasets and implemented data augmentation methods, constructing timestamp-based snapshot graphs as DGL Datasets.  
+- **Model Optimization**: Refactored anomaly-aware graph embedding models by migrating frameworks from PyG to DGL and adopting lightning-hydra-template to improve training efficiency.  
 
-**大语言模型工具智能体研究** | 中科院自动化所NLPR实验室 <span style="float:right;">2024.11 - 2025.03</span>  
-:--- | :---  
-- **数据工程**：构建1.77M规模多模态Tool数据集，覆盖12类工具场景  
-- **模型优化**：在DeepSeek-R1模型上实现MoleculeNet分子分类98.95%准确率  
-- **训练框架**：设计IDGenRec交替训练策略，工具生成成功率提升15.3%  
+**Industrial Chain Risk Prediction System (Huaxia Bank)** <span style="float:right;">2024.10 - 2024.11</span>  
+- **Role**: Assistant developer for risk assessment model and path extraction algorithms.  
+- **Data Processing**: Handled large-scale enterprise node and edge relationship data using one-hot encoding and timestamp-based dataset partitioning.  
+- **Model Design**: Built a GAT-based heterogeneous graph neural network integrating node/edge features for enterprise risk probability prediction.  
+- **Path Extraction**: Developed attention-based path tracing algorithms to visualize risk propagation paths.  
+- **Optimization**: Enhanced model performance on complex graph structures by introducing multi-head attention and edge feature fusion.  
 
-**国际科研合作项目** | 南洋理工大学AI实验室 <span style="float:right;">2023.01 - 2023.03</span>  
-:--- | :---  
-- **算法突破**：改进U-Net多尺度特征融合模块，医疗影像分割Dice系数提升8.3%  
-- **工程贡献**：开发自动化标注流水线，标注效率提升40%  
-- **学术认可**：获Dr. Teoh推荐信评价"在复杂工程问题中展现卓越的体系化思维"  
+**A Blockchain anomaly transaction detection system using GNNs (BCWatch)** <span style="float:right;">2024.03 - 2024.08</span>  
+- **Role**: Team Leader (17th National Information Security Competition)  
+- **Model Optimization**: Reduced computational complexity through lightweight graph representation learning and clustering architectures, enabling large-scale graph processing under resource constraints.  
+- **Clustering Precision**: Unified graph representation learning and clustering via node discrimination and expansion-contraction loss, achieving "intra-class minimization and inter-class maximization."  
 
-**技术认证与能力建设**  
-- CSTP认证大模型应用开发工程师（TOP 10%）<span style="float:right;">2024.05</span>  
-- 华为云ModelArts高级开发者认证<span style="float:right;">2024.09</span>  
-- 腾讯云TI平台算法部署专项认证<span style="float:right;">2024.12</span>  
+**LLM Practical Training Program** <span style="float:right;">2024.04 - 2024.05</span>  
+- **Learning Content**: Studied LLM fundamentals, prompt engineering, and fine-tuning techniques.  
+- **Project**: Developed the "Emotion Cube" emoji generator on ModelScope, obtaining the **CSTP LLM Application Engineer Certification**.  
+
+**AI Research Project at Nanyang Technological University** <span style="float:right;">2023.01 - 2023.03</span>  
+- **Focus**: AI applications in healthcare.  
+- **Outcome**: Received completion certificate and recommendation letter from Prof. Teoh Teik Toe.  
