@@ -1,6 +1,6 @@
 ---
 permalink: /research_zh/
-title: "Research and Project Experience"
+title: "科研项目经历"
 ---
 
 [Enlish Version](/zjs.github.io/research/)  
