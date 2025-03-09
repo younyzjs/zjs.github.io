@@ -2,6 +2,9 @@
 permalink: /sw_zh/
 title: "Student Work"
 ---
+
+[Enlish Version](/zjs.github.io/sw/)  
+
 ### 学生工作经历
 
 #### 2022.9 - 2023.6
