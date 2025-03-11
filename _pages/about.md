@@ -44,4 +44,4 @@ Three years at HIT have forged my academic rigor and innovative spirit. Honors b
 
 More Info
 ------
-&emsp;&emsp;Feel free to reach me via WeChat:[Youny711](/zjs.github.io/images/wechat.jpg) or Email:<a href="mailto:2947472435@qq.com">2947472435@qq.com</a>
+&emsp;&emsp;Feel free to reach me via WeChat:[Youny711](/zjs.github.io/images/wechat.jpg) or Email:<a href="mailto:zhangjinshuai0711@163.com">zhangjinshuai0711@163.com</a>
