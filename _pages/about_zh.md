@@ -36,4 +36,4 @@ author_profile: true
 
 更多
 ------
-&emsp;&emsp;欢迎通过微信:Youny711 或 邮箱 <a href="mailto:2947472435@qq.com">2947472435@qq.com</a> 与我联系。
+&emsp;&emsp;欢迎通过微信:Youny711 或 邮箱 <a href="mailto:zhangjinshuai0711@163.com">zhangjinshuai0711@163.com</a> 与我联系。
