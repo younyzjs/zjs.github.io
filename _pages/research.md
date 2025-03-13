@@ -25,7 +25,7 @@ title: "Research and Project Experience  "
 - **Data Processing**: Processed microservice datasets and implemented data augmentation methods, constructing timestamp-based snapshot graphs as DGL Datasets.  
 - **Model Optimization**: Refactored anomaly-aware graph embedding models by migrating frameworks from PyG to DGL and adopting lightning-hydra-template to improve training efficiency.  
 
-**Industrial Chain Risk Prediction System (Huaxia Bank)** <span style="float:right;">2024.10 - 2024.11</span>  
+**Early Warning System for Risk Propagation in Industrial Chains Based on GNNs** <span style="float:right;">2024.10 - 2024.11</span>  
 - **Role**: Assistant developer for risk assessment model and path extraction algorithms.  
 - **Data Processing**: Handled large-scale enterprise node and edge relationship data using one-hot encoding and timestamp-based dataset partitioning.  
 - **Model Design**: Built a GAT-based heterogeneous graph neural network integrating node/edge features for enterprise risk probability prediction.  
