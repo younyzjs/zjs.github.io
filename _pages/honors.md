@@ -19,6 +19,7 @@ class: honors-container
 - **Social Practice Scholarship** (2024.05)<span style="float:right;">—— Harbin Institute of Technology (Weihai)</span>  
 - **Social Practice Scholarship** (2023.11)<span style="float:right;">—— Harbin Institute of Technology (Weihai)</span>  
 - **Outstanding Social Work Scholarship** (2023.06)<span style="float:right;">—— Harbin Institute of Technology (Weihai)</span>  
+- **The 23rd Class of "Ten Outstanding Students" and Ma Zuguang Scholarship** (2025.04)<span style="float:right;">—— Harbin Institute of Technology (Weihai)</span>  
 
 ## Competitions & Awards  
 - **National Information Security Competition for College Students — National Third Prize (Team Leader)** (2024.08)  
@@ -35,6 +36,8 @@ class: honors-container
 ## Campus Activities & Honors  
 - **Outstanding Student Cadre Model** (top0.5%) (2024.11)
 <div style="text-align:right;">—— CPC HIT Committee, Harbin Institute of Technology</div>  
+- **Outstanding League Member Role Model** (top0.1%) (2025.04)
+<div style="text-align:right;">—— Youth League Committee of Harbin Institute of Technology</div>
 - **Top 10 Academic Stars (Excellence Category)** (top0.1%) (2024.06)
 <div style="text-align:right;">—— Harbin Institute of Technology (Weihai)</div> 
 - **"Top 10 Outstanding Individuals" in Social Practice** (top0.1%) (2024.04)
