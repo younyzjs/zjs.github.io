@@ -32,7 +32,7 @@ Holding over 10 leadership roles including class monitor, academic committee mem
 - Mentored freshmen cohort with 7 students entering top 50% academically  
 - Led "Coding for All" social practice program recognized as Top 10 University Teams 
 - Directed "Cloud Dream" community coding initiative winning Weihai Outstanding Volunteer Project
-- Received **Outstanding Student Cadre Model (Top 0.5%)** ,**The 23rd Class of "Ten Outstanding Students**and Outstanding Student Leader awards  
+- Received **Outstanding Student Cadre Model (Top 0.5%)** ,**The 23rd Class of "Ten Outstanding Students** and Outstanding Student Leader awards  
 
 Vision & Commitment  
 ------
