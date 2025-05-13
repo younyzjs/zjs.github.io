@@ -11,6 +11,7 @@ title: "荣誉奖项"
 - **社会实践奖学金**(2024.05)<span style="float:right;">——哈尔滨工业大学(威海)</span>
 - **社会实践奖学金**(2023.11)<span style="float:right;">——哈尔滨工业大学(威海)</span>
 - **社会工作优秀奖学金**(2023.06)<span style="float:right;">——哈尔滨工业大学(威海)</span>
+- **第23届十佳大学生暨马祖光奖学金**(2025.04)<span style="float:right;">——哈尔滨工业大学(威海)</span>
 
 ## Competitions & Awards
 - **全国大学生信息安全竞赛——国家三等奖(队长)** (2024.08)
@@ -26,6 +27,7 @@ title: "荣誉奖项"
 
 ## Campus Activities & Honors
 - **优秀学生干部标兵**(top0.5%) (2024.11)<span style="float:right;"> ——中共哈尔滨工业大学委员会、哈尔滨工业大学</span>
+- **优秀团员标兵** (2025.04)<span style="float:right;"> ——共青团哈尔滨工业大学委员会</span>
 - **十佳学习之星(卓越类)**(top0.1%) (2024.06) <span style="float:right;">——哈尔滨工业大学(威海)</span>
 - **社会实践“十佳个人”**(top0.1%) (2024.04)<span style="float:right;"> ——共青团哈尔滨工业大学(威海)委员会</span>
 - **社会实践“十佳团队”(队长)** (2024.04) <span style="float:right;">——共青团哈尔滨工业大学(威海)委员会</span>
