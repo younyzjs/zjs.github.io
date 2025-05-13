@@ -12,7 +12,7 @@ title: "Research and Project Experience  "
 - **Data Partition Optimization**: Enhanced mini-batch partitioning using Metis and k-means clustering to reduce edge information loss.  
 - **Performance**: FGAD model outperformed 11 baseline methods on 7 anomaly detection datasets (Cora, Flickr, Reddit, Books, etc.).  
 
-**LToGc: Efficient Large-scale Tool Tokenization and Generative Calling** <span style="float:right;">2024.11 - 2025.03</span>  
+**LToGc: Efficient Large-scale Tool Tokenization and Generative Calling** <span style="float:right;">2024.11 - 2025.05</span>  
 - **Affiliation**: NLPR Laboratory, Chinese Academy of Sciences
 - **Journal Submission**: Second-author submitted to CCF-A conference ACL.  
 - **Theoretical Research**: Explored incremental learning (DSI++), collision-free codebook methods, and IDGenRec alternating training strategies.  
