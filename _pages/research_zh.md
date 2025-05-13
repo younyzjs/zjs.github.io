@@ -13,7 +13,7 @@ title: "科研项目经历"
 - **数据划分优化**：改进 mini-batch 划分方式，通过 metis 和 k-means 方法划分数据集成簇，减少边数据信息损失。
 - **性能突破**：FGAD模型在AUC-ROC分数在Cora,Flickr,Reddit,Books等7个异常图数据集上超过11类baseline。
 
-**高效的大规模工具令牌化和生成式调用** <span style="float:right;">2024.11 - 2025.03</span>  
+**高效的大规模工具令牌化和生成式调用** <span style="float:right;">2024.11 - 2025.05</span>  
 - **科研实习单位**：中国科学院自动化所 NLPR 实验室。
 - **期刊投稿**：第二作者在投CCF-A类顶会ACL。  
 - **理论研究**：调研探索增量学习 (DSI++) 方法，无碰撞 codebook 方法，生成检索交替训练方法 (IDGenRec)。  
