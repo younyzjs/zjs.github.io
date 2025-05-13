@@ -8,6 +8,7 @@ class: honors-container
 
 
 ## Scholarships
+- **The 23rd Class of "Ten Outstanding Students" and Ma Zuguang Scholarship** (2025.04)<span style="float:right;">—— Harbin Institute of Technology (Weihai)</span> 
 - **National Scholarship** (top1%) (2023.12)
 <div style="text-align:right;">—— Ministry of Education of the People's Republic of China</div>
 - **National Encouragement Scholarship** (top1%) (2024.12)
@@ -19,7 +20,7 @@ class: honors-container
 - **Social Practice Scholarship** (2024.05)<span style="float:right;">—— Harbin Institute of Technology (Weihai)</span>  
 - **Social Practice Scholarship** (2023.11)<span style="float:right;">—— Harbin Institute of Technology (Weihai)</span>  
 - **Outstanding Social Work Scholarship** (2023.06)<span style="float:right;">—— Harbin Institute of Technology (Weihai)</span>  
-- **The 23rd Class of "Ten Outstanding Students" and Ma Zuguang Scholarship** (2025.04)<span style="float:right;">—— Harbin Institute of Technology (Weihai)</span>  
+ 
 
 ## Competitions & Awards  
 - **National Information Security Competition for College Students — National Third Prize (Team Leader)** (2024.08)  
