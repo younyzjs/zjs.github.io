@@ -20,9 +20,9 @@ I bridge theory with practice through research and competitions. As team leader,
 **Research Highlights:**  
 - Conducted AI research at Nanyang Technological University under Dr. Teoh Teik Toe's supervision, earning recommendation letter  
 - Developed BCWatch: A blockchain anomaly transaction detection system using GNNs, winning national competition awards  
-- At HIT INET Lab: Designed **FGAD (Anomaly Score-Guided Feedback  in Graph Anomaly Detection)** by integrating anomaly scores into feature aggregation, preparing first-author paper for ICDM 2025 (CCF-B)  
+- At HIT INET Lab: Designed **FGAD (Anomaly Score-Guided Feedback  in Graph Anomaly Detection)** by integrating anomaly scores into feature aggregation, preparing **first-author paper for ICDM 2025 (CCF-B)**
 - At HIT ICES Lab: Explored GAD applications in **microservice fault tracing** through classic model reproduction and root cause framework design  
-- At CASIA NLPR Lab: Participated in the research of **LToGc: Efficient Large-scale Tool Tokenization and Generative Calling** ,built 46K+ multimodal **Tool Agent** dataset to enhance Toolkengpt's tool comprehension,Related achievements are submitted as the second author to the CCF-A conference ACL; Contributed to **DeepSeek-R1** molecular classification model achieving 98.95% accuracy on MoleculeNet.
+- At CASIA NLPR Lab: Participated in the research of **LToGc: Efficient Large-scale Tool Tokenization and Generative Calling** ,built 46K+ multimodal **Tool Agent** dataset to enhance Toolkengpt's tool comprehension,Related achievements are submitted as **the second author to the CCF-A conference ACL**; Contributed to **DeepSeek-R1** molecular classification model achieving 98.95% accuracy on MoleculeNet.
 - Obtained CSTP LLM Application Developer Certification through intensive training  
 
 Leadership & Service  
