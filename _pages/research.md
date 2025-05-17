@@ -14,7 +14,7 @@ title: "Research and Project Experience  "
 
 **LToGc: Efficient Large-scale Tool Tokenization and Generative Calling** <span style="float:right;">2024.11 - 2025.05</span>  
 - **Affiliation**: NLPR Laboratory, Chinese Academy of Sciences
-- **Journal Submission**: Second-author submitted to CCF-A conference ACL.  
+- **Journal Submission**: Forth-author submitted to CCF-A conference ACL.  
 - **Theoretical Research**: Explored incremental learning (DSI++), collision-free codebook methods, and IDGenRec alternating training strategies.  
 - **Data Processing**: Addressed Tool Agent data scarcity by constructing a 589k multimodal Tool dataset covering 46k tool categories to optimize Toolkengpt's tool comprehension.  
 - **Model Training**: Reproduced and optimized the Toolkengpt model, conducting experiments on generated datasets to evaluate NDCG and accuracy.  
